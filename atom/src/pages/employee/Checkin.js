@@ -1,7 +1,7 @@
 import React, { useState } from 'react';
 import { useAuth } from '../../context/AuthContext';
 import { useData } from '../../context/DataContext';
-import { CheckCircle, Save } from 'lucide-react';
+import { Save } from 'lucide-react';
 
 const EmployeeCheckin = () => {
   const { currentUser } = useAuth();
