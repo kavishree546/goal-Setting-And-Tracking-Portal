@@ -1,4 +1,4 @@
-# ATOMQUEST HACKATHON 1.0 - Goal Setting & Tracking Portal
+Goal Setting & Tracking Portal
 
 ## 1. Live Hosted Demo URL
 [https://goal-setting-and-tracking-portal-a8.vercel.app/login](https://goal-setting-and-tracking-portal-a8.vercel.app/login)
